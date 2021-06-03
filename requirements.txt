@@ -20,7 +20,6 @@ chardet==3.0.4
 cheroot==8.5.2
 Click==7.0
 colorama==0.4.3
-command-not-found==0.3
 constantly==15.1.0
 cryptography==3.4.7
 cupshelpers==1.0
